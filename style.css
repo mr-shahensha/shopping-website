@@ -54,7 +54,10 @@ li{
     color: white;
     text-shadow: black 0px 2px 5px;
 }
-
+.section-title{
+    padding: 10px;
+    font-size: 40px !important;
+}
 @media screen and (max-width:786px)
 {
     .container{
