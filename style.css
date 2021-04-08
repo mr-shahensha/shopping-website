@@ -54,8 +54,11 @@ li{
     color: white;
     text-shadow: black 0px 2px 5px;
 }
+#trending p{
+    font-size: 22px;
+    font-weight: 500;
+}
 .section-title{
-    padding: 10px;
     font-size: 50px !important;
 }
 @media screen and (max-width:786px)
