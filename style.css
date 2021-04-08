@@ -61,6 +61,9 @@ li{
 .section-title{
     font-size: 50px !important;
 }
+#aboutus h2{
+    color: black;
+}
 @media screen and (max-width:786px)
 {
     .container{
@@ -68,5 +71,8 @@ li{
     }
     .lce{
         padding-bottom: 10px;
+    }
+    .navbar-toggler{
+        text-align: right;
     }
 }
