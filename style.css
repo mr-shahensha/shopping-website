@@ -66,4 +66,7 @@ li{
     .container{
         overflow-x:hidden;
     }
+    .lce{
+        padding-bottom: 10px;
+    }
 }
